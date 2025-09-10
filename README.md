@@ -16,11 +16,11 @@ Valu.ai es una **aplicación inteligente** diseñada para **estimar el valor rea
 
 ## 🧩 Tecnologías a utilizar  
 - **Lenguaje principal:** Python 🐍  
-- **Framework Web:** [Streamlit](https://streamlit.io/)  
-- **Análisis y limpieza de datos:** Pandas, NumPy  
-- **Machine Learning:** Scikit-learn, XGBoost, TensorFlow/PyTorch *(en evaluación)*  
-- **Visualización:** Matplotlib, Seaborn, Plotly  
-- **Despliegue:** Streamlit Cloud / HuggingFace Spaces  
+- **Framework Web:** XXXXXXXXXX
+- **Análisis y limpieza de datos:** XXXXXXXXXX
+- **Machine Learning:** XXXXXXXXXX
+- **Visualización:** XXXXXXXXXX
+- **Despliegue:** XXXXXXXXXX
 
 ---
 
