@@ -29,6 +29,24 @@ El objetivo de **Valu.ai** es **democratizar la tasación inmobiliaria** mediant
 
 ---
 
+## 📊 Criterios de calidad y validez de los datos  
+
+Para garantizar que las predicciones de **Valu.ai** sean **precisas y confiables**, definimos los siguientes criterios para la selección y validación de los datos:  
+
+### **1. Fuente de datos confiable**
+- Los datos provendrán de **fuentes oficiales** y de **alta credibilidad**, como:
+  - Banco Central de Reserva del Perú (BCRP)
+  - Asociaciones inmobiliarias y portales oficiales
+  - Registros históricos de ventas cerradas  
+
+### **2. Vigencia temporal**
+- Solo se considerarán datos **relevantes y actualizados**.  
+- El dataset se filtrará para incluir **transacciones desde 2018 en adelante**, ya que los precios más antiguos podrían distorsionar las predicciones.
+
+Con estos criterios, buscamos que los modelos de **Valu.ai** se basen únicamente en información **confiable, actual y representativa** del mercado inmobiliario peruano.  
+
+---
+
 ## 📅 Estado del proyecto  
 🔹 **Fase actual:** Documentación y diseño de arquitectura.  
 🔹 **Próximos pasos:**  
