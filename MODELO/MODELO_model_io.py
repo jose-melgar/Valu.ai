@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 MODELO/model_io.py
 Funciones simples para guardar/cargar modelos y extraer importancias mínimas.

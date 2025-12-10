@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 MODELO/training.py
 Entrenamiento compacto (CLI) que:
